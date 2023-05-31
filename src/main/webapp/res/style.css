@@ -1,0 +1,19 @@
+table {
+    border-spacing: 0 10px;
+    font:  bold 100% Georgia, serif;
+    margin: 40px auto;
+    text-shadow: 5px 5px 5px #3F3F7F;
+    background: #B1B9D9;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+    border: 10px solid greenyellow;
+}
+h2{
+    font:  bold 100% Georgia, serif;
+    text-align: center;
+    text-shadow: #3F3F7F 5px 5px 5px;
+}
+a{
+    text-align: center;
+}
